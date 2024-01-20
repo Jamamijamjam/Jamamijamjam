@@ -10,14 +10,25 @@ I'm a bimodal sort of guy with only two real interests in life; data 📈 and cy
 ### My work history
 I've been in the data and insights game for over a decade.
 
-|$${\color{red}Industries}$$|Business functions/teams|
+
+|Industries|Business functions/teams|
 |--|--|
-|<table> <tr><td>🧥 Luxury Retail</td><td>🎁 eCommerce</td></tr><tr><td>🍟 Restaurant (QSR and Casual Dining)</td><td>💻 Tech</td></tr><tr><td>📀 Music & Video</td><td>➕ and more</td></tr> </table>|<table> <tr><td>Insights</td><td>CRM</td></tr><tr><td>Business Intelligence (BI)</td><td>Data</td></tr><tr></table>
+|<table> <tr><td>🧥 Luxury Retail</td><td>🎁 eCommerce</td></tr><tr><td>🍟 Restaurant<br>(QSR and Casual Dining)</td><td>💻 Tech</td></tr><tr><td>📀 Music & Video</td><td>➕ and more</td></tr> </table>|<table> <tr><td>Insights</td><td>CRM</td></tr><tr><td>Business Intelligence<br>(BI)</td><td>Data</td></tr><tr></table>
 
 |Analysis and services delivered|Languages/Stack|
 |--|--|
-|<table> <tr><td>Predctive modelling</td><td>Statistical analysis</td></tr><tr><td>Deep dive insights and exploratory data analysis</td><td>Dashboards</td></tr></table>|<table> <tr><td>Python</td><td>SQL</td></tr><tr><td>R</td><td>Tableau</td></tr><tr><tr><td>MongoDB</td><td>VBA</td></tr></table>
+|<table> <tr><td>Machine Learning<br>and predctive modelling</td><td>Statistical analysis</td></tr><tr><td>Deep dive insights<br>and exploratory data analysis</td><td>Dashboards</td></tr></table>|<table> <tr><td>Python</td><td>SQL</td></tr><tr><td>R</td><td>Tableau</td></tr><tr><tr><td>MongoDB</td><td>VBA</td></tr></table>
 
+<h2> 🚀 &nbsp;Tools I use:</h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongo" width="45" height="45"/>
+          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+</p>
 <!--
 **Jamamijamjam/Jamamijamjam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
