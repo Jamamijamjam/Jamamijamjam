@@ -1,30 +1,33 @@
 <div align="center">
-    <h1>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=400&color=4258A8&center=true&random=false&width=435&lines=Hello+friends...;Welcome+to+my+Github" alt="Typing SVG"/>
-    </h1>
+    <header>
+        <h3><img width="1031" alt="Screenshot 2024-01-21 at 19 55 37" src="https://github.com/Jamamijamjam/Jamamijamjam/assets/57154964/f5e068ca-2c45-40cd-9384-1246f45d815b"></h3>
+        <h2><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=400&color=4258A8&center=true&random=false&width=435&lines=Hello+friends...;Welcome+to+my+Github" alt="Typing SVG"/></h2>
+    </header>
 </div>
 
 <div align="center">
     <h1>👋 I'm Jahir 👋</h1>
     <div align="center">
-        <h2>🚴 About Me</h2>
-        <p>I'm a seasoned freelance data scientist specialising in <u>data</u>, <u>insight</u> and <u>predictive analysis</u>.<br><br>I have few interests in life; <ins>growing a beard</ins>🧔, <ins>cycling</ins>🚲 and <ins>data</ins>📈 (yes, in that order).<br>I've aced the beard and too slow to make it as a cyclist so focusing on data.</p>
+        <h3>🚴 About Me</h3>
+        <p>I'm a seasoned freelance data scientist, based in London, specialising in <u>data</u>, <u>insight</u> and <u>predictive analysis</u>.<br><br>I have very few interests in life; <ins>growing a beard</ins>🧔, <ins>cycling</ins>🚲 and <ins>data</ins>📈 (yes, in that order).<br>I've aced the beard and too slow to make it as a cyclist so focusing on data.</p>
+        <p></p>
+        <h2></h2>
     </div>
     <div>
-    <h2>What you will find on my Github</h2>
-    <p>blah blah</p>
+        <h3>What you will find on my Github</h3>
+        <p></p>
+        <h2></h2>
     </div>
     <div align="center">
-        <h2>👨‍💼 My experience</h2>
+        <h3>👨‍💼 My experience</h3>
         <p>I've been in the data and insights game for over a decade.</p>
         <table><tr><th align="center">Industries in which I've worked</th></tr></table>
-        <table><tr><td align="center">🧥<br>Luxury Retail</td><td align="center">🎁<br>eCommerce</td><td align="center">🍟<br>Restaurant (QSR and Casual Dining)</td><td align="center">💻<br>Tech</td><td align="center">📀<br>Music & Video</td><td align="center">➕ and more</td></tr></table>
-        <!-- <h2></h2>-->
+        <table><tr><td align="center">🧥<br>Luxury Retail</td><td align="center">🎁<br>eCommerce</td><td align="center">🍟<br>Restaurant (QSR and Casual Dining)</td><td align="center">💻<br>Tech</td><td align="center">📀<br>Music & Video</td><td align="center">➕ and more</td></tr></table><br>
         <table><tr><th align="center">Business functions/teams I've helped</th></tr></table>
-        <table><tr><td align="center">Insights</td><td align="center">CRM</td align="center"><td align="center">Business Intelligence (BI)</td><td align="center">Data</td></tr></table>
-        <!-- <h2></h2>-->
+        <table><tr><td align="center">Insights</td><td align="center">CRM</td align="center"><td align="center">Business Intelligence (BI)</td><td align="center">Data</td></tr></table><br>
         <table><tr><th align="center">Analysis services I provide</th></tr></table>
         <table><tr><td  align="center">Machine Learning<br>and predctive modelling</td><td align="center">Statistical analysis</td><td align="center">Deep dive insights<br>and exploratory data analysis</td><td align="center">Data visualisations<br>and dashboards</td></tr></table>
+        <h2></h2>
     </div>
 </div>
     
