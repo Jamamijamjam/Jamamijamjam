@@ -13,7 +13,7 @@
     <div align="center">
         <h5> Check out my freelance profiles on:</h5>
         <p align="center">
-        <a href="www.linkedin.com/in/jahir-miah-metajam">
+        <a href="https://www.linkedin.com/in/jahir-miah-metajam">
             <img alt="linkenin_profile_2" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
         </a>
         <a href="https://www.malt.uk/profile/jahirmiah">
