@@ -1,21 +1,29 @@
-<div align="center">
-    <header>
-        <h3><img width="1031" alt="Screenshot 2024-01-21 at 19 55 37" src="https://github.com/Jamamijamjam/Jamamijamjam/assets/57154964/f5e068ca-2c45-40cd-9384-1246f45d815b"></h3>
-        <h2><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=400&color=4258A8&center=true&random=false&width=435&lines=Hello+friends...;Welcome+to+my+Github" alt="Typing SVG"/></h2>
-    </header>
+<div align="center" class="parent">
+    <h1>Hi, I'm Jahir 👋<br><br>
+        <img class="image1" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=400&color=4258A8&center=true&random=false&width=600&lines=I+do...;Predictive+Modelling...;Statistical+Analysis...;Insight+Analysis...;and+Dashboards" alt="Typing SVG"/>
+    </h1>
 </div>
 
 <div align="center">
-    <h1>👋 I'm Jahir 👋</h1>
+    <h5> Check out my services and reach me on:</h5>
+    <p align="center">
+        <img width="40" src="https://github.com/Jamamijamjam/Jamamijamjam/assets/57154964/28171a1b-5dde-4a9b-8d80-2407a8c9a76b" alt="linkedin_profile"/> 
+        <img width="80" alt="malt_profile" src="https://github.com/Jamamijamjam/Jamamijamjam/assets/57154964/32fc3ef5-d5df-4b78-866f-8c0ba95952a7">
+    </p>
+</div>
+
+
+<div align="center">
     <div align="center">
         <h3>🚴 About Me</h3>
-        <p>I'm a seasoned freelance data scientist, based in London, specialising in <u>data</u>, <u>insight</u> and <u>predictive analysis</u>.<br><br>I have very few interests in life; <ins>growing a beard</ins>🧔, <ins>cycling</ins>🚲 and <ins>data</ins>📈 (yes, in that order).<br>I've aced the beard and too slow to make it as a cyclist so focusing on data.</p>
+        <p>I'm a seasoned machine learning and data freelancer, based in London, specialising in <u>data</u>, <u>insight</u> and <u>predictive analysis</u>.<br><br>I have very few interests in life; <ins>growing a beard</ins>🧔, <ins>cycling</ins>🚲 and <ins>data</ins>📈 (yes, in that order).<br>I've aced the beard and too slow to make it as a cyclist so focusing on data.</p>
         <p></p>
         <h2></h2>
     </div>
     <div>
         <h3>What you will find on my Github</h3>
-        <p></p>
+        <li>blah blah</li>
+        <li>blah blah</li>
         <h2></h2>
     </div>
     <div align="center">
@@ -43,7 +51,6 @@
         <img src="https://www.tableau.com/sites/default/files/2022-04/TableauLogo_RGB.png" alt="tableau" width="100" height="30"/> 
     </p>
 </div>
-
 
 <!--
 **Jamamijamjam/Jamamijamjam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
