@@ -68,6 +68,8 @@
     </p>
 </div>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jamamijamjam&label=Profile%20views&color=ce9927&style=flat" alt="jamamijamjam" /> </p>
+
 <!--
 **Jamamijamjam/Jamamijamjam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
