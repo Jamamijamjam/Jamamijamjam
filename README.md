@@ -11,13 +11,10 @@
         <p></p>
     </div>
     <div align="center">
-        <h5> Check out my freelance profiles on:</h5>
+        <h5> Check out my profiles on:</h5>
         <p align="center">
         <a href="https://www.linkedin.com/in/jahir-miah-metajam">
             <img alt="linkenin_profile_2" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-        </a>
-        <a href="https://www.malt.uk/profile/jahirmiah">
-            <img width="80px" height="25px" alt="malt_profile" src="https://github.com/Jamamijamjam/Jamamijamjam/assets/57154964/32fc3ef5-d5df-4b78-866f-8c0ba95952a7"/>
         </a>
         </p>
         <p> Get in touch!</p>
