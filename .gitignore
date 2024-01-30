@@ -40,3 +40,8 @@ Thumbs.db
 ######################
 ._*
 ._README.md
+
+
+# gitignore #
+#############
+.gitignore
