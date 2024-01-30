@@ -38,7 +38,8 @@
         <h2></h2>
     </div>
 </div>
-    
+
+<!--  
 <div align="center">
     <h3> &nbsp;Programming languages and tools I use:</h3>
     <p align="center">
@@ -52,12 +53,12 @@
         <img src="https://www.tableau.com/sites/default/files/2022-04/TableauLogo_RGB.png" alt="tableau" width="100" height="30"/> 
     </p>
 </div>
-
+-->
 <div align="center">
     <h3> &nbsp;Programming languages and tools I use:</h3>
     <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" width="100" height="45"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="sql" width="100" height="55"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="sql" width="100" height="45"/>
         <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="r" width="100" height="45"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="100" height="45"/>
         <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongo" width="100" height="45"/> 
