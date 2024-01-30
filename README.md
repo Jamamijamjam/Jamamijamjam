@@ -11,7 +11,7 @@
         <p></p>
     </div>
     <div align="center">
-        <h5> Check out my profiles on:</h5>
+        <h5> Check out my profile on:</h5>
         <p align="center">
         <a href="https://www.linkedin.com/in/jahir-miah-metajam">
             <img alt="linkenin_profile_2" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
