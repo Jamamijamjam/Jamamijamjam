@@ -7,7 +7,7 @@
 <div align="center">
     <div align="center">
         <h3>🚴 About Me</h3>
-        <p>I'm a seasoned machine learning and data freelancer, based in London, specialising in <u>data</u>, <u>insight</u> and <u>predictive analysis</u>.<br><br>I have very few interests in life; <ins>growing a beard</ins>🧔, <ins>cycling</ins>🚲 and <ins>data</ins>📈 (yes, in that order).<br>I've aced the beard and too slow to make it as a cyclist so focusing on data.</p>
+        <p>I'm a seasoned machine learning and data freelancer, based in London, specialising in <u>data</u>, <u>insight</u> and <u>predictive analysis</u>.<br><br>I have very few interests in life; <ins>growing a beard</ins>🧔, <ins>cycling</ins>🚲 and <ins>data</ins>📈 (yes, in that order).<br>I've aced the beard and too slow to make it as a cyclist so focusing on my third passion, data.</p>
         <h2></h2>
     </div>
     <div align="center">
