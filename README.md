@@ -22,7 +22,7 @@
 </div>
     <div>
         <h3>What you will find on my Github</h3>
-        <li>blah blah</li>
+        <li>Projects with industry relevance</li>
         <li>blah blah</li>
         <h2></h2>
     </div>
@@ -30,11 +30,11 @@
         <h3>👨‍💼 My experience</h3>
         <p>I've been in the data and insights game for over a decade.</p>
         <table><tr><th align="center">Industries in which I've worked</th></tr></table>
-        <table><tr><td align="center">🧥<br>Luxury Retail</td><td align="center">🎁<br>eCommerce</td><td align="center">🍟<br>Restaurant (QSR and Casual Dining)</td><td align="center">💻<br>Tech</td><td align="center">📀<br>Music & Video</td><td align="center">➕ and more</td></tr></table><br>
+        <table><tr><td align="center">🧥<br>Luxury Retail<br><br></td><td align="center">🎁<br>eCommerce<br><br></td><td align="center">🍟<br>Restaurant<br>(QSR and Casual Dining)</td><td align="center">💻<br>Tech<br><br></td><td align="center">📀<br>Music & Video<br><br></td><td align="center">➕<br>and more<br><br></td></tr></table><br>
         <table><tr><th align="center">Business functions/teams I've helped</th></tr></table>
         <table><tr><td align="center">Insights</td><td align="center">CRM</td align="center"><td align="center">Business Intelligence (BI)</td><td align="center">Data</td></tr></table><br>
         <table><tr><th align="center">Analysis services I provide</th></tr></table>
-        <table><tr><td  align="center">Machine Learning<br>and predctive modelling</td><td align="center">Statistical analysis</td><td align="center">Deep dive insights<br>and exploratory data analysis</td><td align="center">Data visualisations<br>and dashboards</td></tr></table>
+        <table><tr><td  align="center">Machine Learning<br>and predctive modelling</td><td align="center">Statistical analysis<br><br></td><td align="center">Deep dive insights<br>and exploratory data analysis</td><td align="center">Data visualisations<br>and dashboards</td></tr></table>
         <h2></h2>
     </div>
 </div>
