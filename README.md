@@ -8,22 +8,28 @@
     <div align="center">
         <h3>🚴 About Me</h3>
         <p>I'm a seasoned machine learning and data freelancer, based in London, specialising in <u>data</u>, <u>insight</u> and <u>predictive analysis</u>.<br><br>I have very few interests in life; <ins>growing a beard</ins>🧔, <ins>cycling</ins>🚲 and <ins>data</ins>📈 (yes, in that order).<br>I've aced the beard and too slow to make it as a cyclist so focusing on data.</p>
-        <p></p>
+        <h2></h2>
     </div>
     <div align="center">
-        <h5> Check out my profile on:</h5>
+        <h3>＠Reach out</h3>
+        <p> Check out my profile on:</p>
         <p align="center">
         <a href="https://www.linkedin.com/in/jahir-miah-metajam">
             <img alt="linkenin_profile_2" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-        </a>
+            </a>
         </p>
-        <p> Get in touch!</p>
+        <p>Get in touch about anything!!</p>
         <h2></h2>
 </div>
     <div>
-        <h3>What you will find on my Github</h3>
-        <li>Projects with industry relevance</li>
-        <li>blah blah</li>
+        <h3>📖 What you will find on my Github</h3>
+        <h4><i>I am a believer in the democratisation of data</i></h4>
+        <p>I will be adding repos containing:</p>
+        <li>Useful sample code from projects and analyses I have delivered</li>
+        <li>Functions and code that make my day to day job that bit easier</li>
+        <li>Industry acquired knowledge and best practice</li>
+        <li>Cool viz's</li>
+        <li>Fun side projects</li>
         <h2></h2>
     </div>
     <div align="center">
