@@ -51,7 +51,7 @@
     <p align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="sql" width="45" height="45"/>
-        <img src="![google-bigquery](https://github.com/Jamamijamjam/Jamamijamjam/assets/57154964/3117f2e8-0c96-40b9-8ee4-f864ffaa77dc)
+        <img src="![google-bigquery](https://github.com/beardedwrangler/beardedwrangler/assets/57154964/3117f2e8-0c96-40b9-8ee4-f864ffaa77dc)
 " alt="bigquery" width="100" height="45"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="r" width="45" height="45"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="45" height="45"/>
@@ -72,10 +72,10 @@
     </p>
 </div>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=jamamijamjam&label=Profile%20views&color=ce9927&style=flat" alt="jamamijamjam" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=beardedwrangler&label=Profile%20views&color=ce9927&style=flat" alt="beardedwrangler" /> </p>
 
 <!--
-**Jamamijamjam/Jamamijamjam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**beardedwrangler/beardedwrangler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
