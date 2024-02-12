@@ -71,7 +71,6 @@
         <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="tableau" width="100" height="45"/> 
     </p>
 </div>
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=beardedwrangler&label=Profile%20views&color=ce9927&style=flat" alt="beardedwrangler" /> </p>
 
 <!--
