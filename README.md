@@ -1,6 +1,6 @@
 <div align="center" class="parent">
     <h1>Hi, I'm Jahir 👋<br><br>
-        <img class="image1" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=400&color=30F02A&center=true&random=false&width=600&lines=I+do...;Predictive+Modelling...;Statistical+Analysis...;Insight+Analysis...;and+Dashboards" alt="Typing SVG"/>
+        <img class="image1" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=400&color=ee4540&center=true&random=false&width=600&lines=I+do...;Predictive+Modelling...;Statistical+Analysis...;Insight+Analysis...;and+Dashboards" alt="Typing SVG"/>
     </h1>
 </div>
 
